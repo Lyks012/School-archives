@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "school-archive-354323",
+  "private_key_id": "19bb21db225aa7d9b9937c6db5a5a0c698ee0f66",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDU08LRH7+QLuf0\n2ufKGbPhgwH0JoPdixpgX8QiSZsSOWbjiKplwIktDGCEumdwf+wdbujjZHGeCJQd\n661LHUzh5s5EpHQxxbW5rPuLXN2j6bWQfeJ3pqqGhRPcqVZyFd6qnxdcanht7Iez\n++eM2LR7aP5qvXSo6uteU2sPZFfwaargllsjZnpKAEnUyE2YC7VM5pcpx8vFxQCh\nQdGggSmUwn/yXwnOTrF5RFseogvjx6ieAjzKE4iD+Q2Pv4gTGwaQR9k1t8kacoIb\nbkqDfveAEpVsA6LoIXKsN2nPaqipX+68wSQZtDaX6VY+R1Zu8MGozZKCJVraK/g1\nGd8TTZ7jAgMBAAECggEAJrov8ajizWRTriElW4fIzUjvEpPtm+NDlfTnNkwJjUvn\ntpC4XRKng4yEhbJ7vyNv/j0f4Lz21ch+12D65De9NUAwGZqJUENHWbWqAkaQSFLv\nSI83pgksb5UIs7cWtWTYY1jWwejX6DzJxs0Yae9HDEvjO94ku9YfpUbtrNvYCrWC\nwPb4oYNLyH+cidthWzcisd2EC4fPRikf2FWRrfNwaikpsU1N5nXZwbwpday4dcTW\nIsjh/tlw3J5UZiCi/HQVKQetGjNzfPX6wzfOnXIxkl3PzuUF1PRAVAz/TQUFqzhE\ncaWA+I0FrQF5KLIdZN09H8OJIEmb0xPWq/6tYOYxlQKBgQDqORtIoyXcIYQX39/0\nI1pGqlS1s+jWTORAJWaETD6n70moZDLGxzapLpmy1kqJRRge2zJXl+A1VHdOapkn\nu+hudjEnvqe5d3Hjz4uYQI6+89hfkbBJ8wdS74iDRPPKU4hpyK1vGMdBezuCEhxl\nH7jknRCFJvnRvdCcV96d0O6rdQKBgQDonWW4v9wKV/B33QRb2Oj9WxIfxukVprjY\naMOSCFcxQHWSTgqei36YXOo8vQfKhcGwsCV/g7imRVLR/mQk4E2pPZZR8PsuRX6c\nniehEnBNDszuTNqB0dHkvYYufGAT4OomGuaEbyriPgYxSoFCBjqZx7qV+/BsxVam\n/XpAWyRN9wKBgExYhO4uT77rJdVqYeOASoLSLn5zwCdqNNQ73Kiu+ZVfyBCdaHem\no8iNqgfDFdScsvoL1OL8XFbFy4XB9V4gP+kRmYAtAxrPNk5dblEYae8QKK0uHdpc\n3zxHW6X+KcD/bW2dvfqChyBu/LyvDpZfurK6B5J/W9rkFkV/1s52NfWpAoGBAIKp\nrzL46pQQ062ww7sH+9Ac8PBSnikgTqKZLooAD2JGEATPu51VRBY30wetMwwq2CL0\nvwuCpR0Ywa3dlMk2CcmwI5kBoUZbmQRGvoH2xogycSDGoNLdVmaDozTHfnyMEVq4\nL5Zij5coOfhEHplEwHQTQhbvvxyKOONybNJrn9f/AoGBALQLJfFME+Pwxv9pveP5\nNhHdeYHy/5nfKIbfyjBzwN8oYjyCEZSQk6AuCf6dNokHnH0SVYC1yEyeAiLqW17t\nO8V/s4o2NAy85vFxJoomxvqLAiWh+H323jkMP4/5iwgYJQLsA0ZvfBUe1iwl4JQK\nnun1O9rpyJbT1AgVB6TActGy\n-----END PRIVATE KEY-----\n",
+  "client_email": "schoolarchivedriveservice@school-archive-354323.iam.gserviceaccount.com",
+  "client_id": "101079393313422978780",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/schoolarchivedriveservice%40school-archive-354323.iam.gserviceaccount.com"
+}
